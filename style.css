@@ -1,0 +1,162 @@
+
+#madi1-body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('/imag/background1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh; 
+    display: flex;
+    flex-direction:row;
+    
+
+}
+#madi-img{
+   width:  1100px;
+    margin-left: -500px;
+    height: 100vh;    
+    object-fit: cover; 
+}
+.madi1-div h1{
+    color: #ffffff;
+    width: 402px;
+    height: 78px;
+    margin-left: 300px;
+    margin-top: 200px;
+    font-family: Readex Pro;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 75px;
+    text-align: left;
+
+}
+.madi1-div #p1{
+    margin-left: 240px;
+    color: #ffffff;
+    font-family: Readex Pro;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 31.25px;
+    text-align: center;
+
+}
+.madi1-div #go-to-pros{
+    font-family: Readex Pro;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 375px;
+    margin-top: 90px;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px ;
+    border: 1px solid #07080C
+}
+.madi1-div button span{
+    margin-left: 10px;
+    width: 14.9px;
+    height: 16.67px;
+    left: 1098.32px;
+    border: 2px ;
+    opacity: 0px;
+
+}
+.madi1-div button span:hover{
+    color: blue;
+}
+
+.madi1-div #p2{
+    margin-left: 250px;
+    color: #ffffff;
+    font-family: Readex Pro;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+}
+/* ---------------------------------madi2 */
+#madi2body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('/imag/background2.jfif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh; 
+}
+#madi2header{
+    margin-top: 20px ;
+    margin-left: 60px;
+    color: #fefefe;
+    font-family: Readex Pro;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    text-align: left;
+
+}
+#madi2prag{
+    margin-top: 20px ;
+    margin-left: 60px;
+    color: #ffffff;
+    font-family: Readex Pro;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 33.75px;
+    text-align: left;
+
+}
+.container {
+    margin-top: 60px;
+    margin-left: 40px;
+    display: flex;
+    flex-wrap: wrap;      /* يسمح بلف العناصر للسطر التالي */
+    gap: 40px;
+}
+.divInContaner{
+    margin-left: 20px;
+    background-color: #151515D9;
+    display: flex;
+    flex-direction: row;
+    width: 412.11px;
+    height: 185.13px;
+    border-radius: 8px;
+   
+}
+.imgOfDiv{
+    margin:20px;
+    width: 153.43px;
+    height: 153.43px;   
+}
+.pdiv{
+    color: #ffffff;
+    font-family: Readex Pro;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 17.5px;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.h1div{
+    color: #ffffff;
+    width: 413.38px;
+    height: 98.91px;
+    font-family: Readex Pro;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    
+}
+.discription{
+    display: flex;
+    flex-direction: column;
+}
